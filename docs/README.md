@@ -7,7 +7,7 @@ Este elemento custom va a dar la opción de elegir una categoría en la barra de
 
 ### Paso 1 - Clonar
 
-Para empezar, [clonar](https://github.com/LauraCastellanos13/itgloberspartnercl.bullets-diagramation) este reopositorio para iniciar con la configuración básica. 
+Para empezar, [clonar](https://github.com/LauraCastellanos13/itgloberspartnercl.custom-department-search) este reopositorio para iniciar con la configuración básica. 
 ### Paso 2 - Editar 'manifest.json'
 
 Una vez abierto el repositorio de manera local, ingresar al archivo `manifest.json` y allí es donde realizará modificaciones en los siguientes elementos: `vendor`, `name`, `version`, `title` y `description`. Como en el siguiente ejemplo:
